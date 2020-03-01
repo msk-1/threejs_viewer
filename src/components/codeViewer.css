@@ -1,0 +1,11 @@
+.eight.column {
+    height: 100vh;
+    background-color: rgba(255, 255, 255, 0.795);
+    margin: 0 0 0 auto;
+}
+
+.text.container {
+    height: 85vh;
+    background-color: rgba(255, 255, 255, 0.603);
+    width: 40vw;
+}
